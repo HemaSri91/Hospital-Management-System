@@ -56,22 +56,22 @@ Login Page	Home Dashboard	Add Patient	View Patients	Delete Records
 				
 
 🧰 Tech Stack
-Tool	Usage
-Python	Core application logic
-Tkinter	GUI framework
-MySQL	   Backend database
-PyMySQL	Python-MySQL connector
-Pillow	Image handling (for GUI icons/images)
+Tool	 Usage
+Python	 Core application logic
+Tkinter	 GUI framework
+MySQL	 Backend database
+PyMySQL	 Python-MySQL connector
+Pillow	 Image handling (for GUI icons/images)
 
 📌 Folder Structure
 Clinic-Hospital-Management-System/
 │
-├── main.py                # Entry point of the application
-├── Login_PAGE.py          # Login interface
-├── page_after_login.py    # Home/Dashboard screen
-├── AddPatients.py         # Form to add new patients
-├── view_patients.py       # Module to view/search/delete patients
-├── ...                    # Other supporting files     
+├── main.py             
+├── Login_PAGE.py           
+├── page_after_login.py   
+├── AddPatients.py        
+├── view_patients.py       
+├── ...                      
 
 📚 About the Project
 This Clinic/Hospital Management System is developed to:
